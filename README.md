@@ -3,8 +3,8 @@
 A full-stack web application for booking university shuttle seats.
 
 ## 👥 Team Members
-* **[Your Name]** - Backend & Database
-* **[Friend's Name]** - Frontend & Design
+* **[P.K.D.Nethmika]** - Backend & Database
+* **[A.D.G.Y.Ranawaka]** - Frontend & Design
 
 ## 🚀 Features
 * Student Login & Registration
