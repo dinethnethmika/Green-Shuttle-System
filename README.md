@@ -1,2 +1,17 @@
-# Green-Shuttle-System
-A web-based university shuttle booking system using PHP and MySQL.
+# 🚌 Green Shuttle - University Transport System
+
+A full-stack web application for booking university shuttle seats.
+
+## 👥 Team Members
+* **[Your Name]** - Backend & Database
+* **[Friend's Name]** - Frontend & Design
+
+## 🚀 Features
+* Student Login & Registration
+* Real-time Seat Booking
+* Email Notifications (SMTP)
+* Mobile Responsive Dashboard
+* Admin Panel for Drivers
+
+## 🛠️ Technologies
+* PHP, MySQL, HTML, CSS, JavaScript, PHPMailer
