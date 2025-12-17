@@ -2,8 +2,8 @@
 
 **Green Shuttle** is a comprehensive web-based application designed to streamline university transport services. It allows students to view bus schedules, book seats in real-time, and receive email confirmations, while providing drivers with a dashboard to view upcoming trips.
 
-''We host the site''
-''Here the link - http://shuttle.gt.tc/login.php?i=2 ''
+We host the site
+Here the link - http://shuttle.gt.tc/login.php?i=2 
 
 ## 🚀 Key Features
 
